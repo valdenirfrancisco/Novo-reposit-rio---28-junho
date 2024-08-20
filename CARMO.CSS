@@ -1,0 +1,61 @@
+header{ 
+  color:  black;
+
+padding-left: 500px;
+
+font-size:  50px;
+  border: solid color  1p black; 
+  background: white;
+   justify-content: center ;
+} 
+body {
+
+    background: rgb(108, 108, 231);
+    color: red;
+    padding: 0px;    
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-family:   "Roboto", sans-serif;
+
+    }
+
+section {
+  background: rgb(231, 180, 54);
+    padding-bottom: 0 px;                                                              
+    padding-top: 0 px;
+    margin-top: 0 px;    
+      margin-bottom: 10px;
+      margin-left: 0px;
+      margin-right: 0px;
+    display: flex;
+    
+
+ }
+.esses{
+  margin-right: 5%;
+  margin-left: 35px;
+  padding-right: -14px;
+  padding: 0px;
+  
+}
+.essas{
+  margin-right: 10%;
+  margin-left: 0px;
+  padding-right: 20px;
+}
+
+h1{
+  font-size: 31px;
+}
+  h2{
+   font-size: 26px;
+  }
+  h3{
+font-size 21px;
+  }
+
+h4{
+  font-size: 16px ;
+}
